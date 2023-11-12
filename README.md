@@ -1,2 +1,2 @@
 # Studies_C
-Projects I've been developing in language C
+Projects and some exercises I've been developing in language C
